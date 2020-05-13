@@ -13,3 +13,5 @@ output{1, 2, 3, 4}.txt son creadas por analyzer.
 En _instances_ están las finales.
 
 A la cuartas instancia se le deben borrar las líneas de texto demás.
+
+Bloques son nombrados como sesiones (error mío).
